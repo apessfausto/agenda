@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="nome">Fausto Gonçalves</string>
+    <string name="telefone">4197600295</string>
+    <string name="email">faustomefistofeles@gmail.com</string>
+    <string name="excluir">Excluir</string>
+    <string name="favorito">Favorito</string>
+    <string name="editar">Editar</string>
+</resources>
